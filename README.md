@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**Anderson68-chale/Anderson68-chale**. 
+**am Anderson**. 
 
-Here are some ideas to get you started:
+Here are some of my description:
 
 - 🔭 I’m currently working on web development and security 
 - 🌱 I’m currently learning angular, node js and hacking 
