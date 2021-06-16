@@ -17,7 +17,7 @@ Here are some of my description:
 <!--  <img align="right" alt="Coding" width="400" src="https://www.wallpaperflare.com/building-lights-illustration-romain-trystram-cityscape-wallpaper-gybmr"> -->
 <!-- spotify -->
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=Anderson68-chale) -->
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+<!-- ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png) -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Anderson_bolt47" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -25,7 +25,8 @@ Here are some of my description:
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
-## Programming Languages
+
+### Programming Languages
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -53,7 +54,7 @@ Here are some of my description:
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
 	<img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-Flutter	Flutter	<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 	<img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" />
 	<img alt= "Meteor JS" src="https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white"/>
 	<img alt="Svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
