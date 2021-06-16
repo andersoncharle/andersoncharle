@@ -12,4 +12,4 @@ Here are some of my description:
 - 💬 Ask me about web and data science 
 - 📫 How to reach me:mkakarianderson68@gmail.com
 - ⚡ Fun fact: coding 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anderson68-chale&theme=dark)](https://git.io/streak-stats) 
