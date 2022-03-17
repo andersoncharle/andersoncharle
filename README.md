@@ -6,10 +6,9 @@
 Here are some of my description:
 
 - 🔭 I’m currently working on web development and security 
-- 🌱 I’m currently learning angular,node js and hacking 
-- 👯 I’m looking to collaborate on charity 
-- 🤔 I’m looking for help with software development  and hacking 
-- 💬 Ask me about web and data science 
+- 🌱 I’m currently learning mongo,express,vue,node js,django,android and hacking  
+- 🤔 I’m looking for help with software development and hacking 
+- 💬 Ask me about web,android and data science 
 - 📫 How to reach me:mkakarianderson68@gmail.com
 - ⚡ Fun fact: coding 
 <!-- [![MasterHead](https://www.wallpaperflare.com/building-lights-illustration-romain-trystram-cityscape-wallpaper-gybmr)](https://github.com/Anderson68-chale/Anderson68-chale) -->
@@ -27,7 +26,7 @@ Here are some of my description:
 </p>
 
 ### Programming Languages
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<!-- <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -58,16 +57,16 @@ Here are some of my description:
 	<img alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" />
 	<img alt= "Meteor JS" src="https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white"/>
 	<img alt="Svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
-<img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/> -->
 
-# Blog posts
+<!-- # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+ -->
 
 
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=m0wmudjim5mwtb6bq5t59brjn&count=10&width=400)
-
+<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=m0wmudjim5mwtb6bq5t59brjn&count=10&width=400)
+ -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anderson68-chale&theme=dark)](https://git.io/streak-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anderson68-chale&show_icons=true&theme=radical)
