@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Anderson
 #### I am Software Engineer.
-![I am Software Engineer.](https://media-exp1.licdn.com/dms/image/C5616AQGcfxxPrs2zlA/profile-displaybackgroundimage-shrink_200_800/0/1650149925344?e=2147483647&v=beta&t=sifuZVDJcTwnoZgd4hJsJrFT8aAoMmMUJtU2A7yfoB8)
+![I am Software Engineer.](https://github.com/blackmitnick/blackmitnick/blob/main/coderPic.jpg)
 
-Full-stack Web developer, android developer, blockchain developer, and ethical hacker who Studying Software Engineer at the University of Dodoma. I have a serious passion for coding, UI/UX design, and hacking.
+Full-stack Web developer, android developer, blockchain developer, and ethical hacker. I have a serious passion for coding, UI/UX design, and hacking.
  Furthermore, I've done work in Software development, Front-End and Back-End Web, database/server management, and graphic design.
  Anyone can knock together a few lines of code, But  Anderson Developer
  Can do more By designing and engineering with users in mind, he contemplates what moves people and build to inspire other people by solving business problems by fusing Creativity, Innovation, and Strategy.
