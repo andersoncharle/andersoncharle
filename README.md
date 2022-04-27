@@ -21,6 +21,7 @@ My slogan in coding is if it works, never touch it again.
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://ethereum.org/en/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/ethereum.png"/> </a> 
+    <a href="https://docs.soliditylang.org/en/v0.8.13/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/solidity.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
