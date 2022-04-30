@@ -74,7 +74,7 @@ My slogan in coding is if it works, never touch it again.
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/https://www.linkedin.com/in/anderson-chale-145096238//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/anderson-chale-145096238/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Anderson_bolt47"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://blackmitnick.github.io/"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
 
