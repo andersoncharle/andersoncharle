@@ -1,7 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm anderson</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
-<h3 align="center">software engineer from Tanzania <img src="https://img.icons8.com/color/48/000000/tanzania.png" width="20px"/>.</h3>
+<h3 align="center">software engineer.</h3>
 
+<!-- from Tanzania <img src="https://img.icons8.com/color/48/000000/tanzania.png" width="20px"/> -->
 
 
 ![I am Software Engineer.](https://github.com/blackmitnick/blackmitnick/blob/main/coderPic.jpg)
