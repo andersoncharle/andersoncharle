@@ -12,11 +12,7 @@
 
 
 
-Full-stack Web developer, android developer, blockchain developer, and ethical hacker. I have a serious passion for coding, UI/UX design, and hacking.
- Furthermore, I've done work in Software development, Front-End and Back-End Web, database/server management, and graphic design.
- Anyone can knock together a few lines of code, But  Anderson Developer
- Can do more By designing and engineering with users in mind, he contemplates what moves people and build to inspire other people by solving business problems by fusing Creativity, Innovation, and Strategy.
-My slogan in coding is if it works, never touch it again.
+Full-stack web developer, Android developer, Blockchain developer, and ethical hacker. My love for coding, UI/UX design, and hacking is intense. I've worked in software development, front-end and back-end web development, database/server management, and graphic design as well. Anyone can put a few lines of code together, but an Anderson Developer can accomplish more. He considers what motivates people and creates to inspire others by combining creativity, innovation, and strategy to solve business challenges. He accomplishes this by designing and engineering with customers in mind. If it works, don't touch it again is my motto when it comes to programming.
 
 ## 🚀 Languages and Tools:
 
