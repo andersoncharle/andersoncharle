@@ -62,8 +62,10 @@ First solve the problem then write code.
 <br/>
 <br/>
 
-<a href="https://github.com/andersoncharle/github-readme-activity-graph"><img alt="andersoncharle Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=andersoncharle&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[//]: # (<a href="https://github.com/andersoncharle/github-readme-activity-graph">)
 
+[//]: # (<img alt="andersoncharle Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=andersoncharle&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andersoncharle&bg_color=000000&color=26a269&line=8ff0a4&point=dc8add&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 <br/>
 
