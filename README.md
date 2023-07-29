@@ -5,7 +5,7 @@
 <!-- from Tanzania <img src="https://img.icons8.com/color/48/000000/tanzania.png" width="20px"/> -->
 
 
-![I am Software Engineer.](https://github.com/blackmitnick/blackmitnick/blob/main/coderPic.jpg)
+![I am Software Engineer.](https://github.com/andersoncharle/andersoncharle/blob/main/coderPic.jpg)
 
 
 ## 🙋‍♂️ About Me
@@ -47,22 +47,22 @@ First solve the problem then write code.
 <br/>
 
 <p align="center">
-    <a href="https://github.com/blackmitnick/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="blackmitnick streak" src="https://github-readme-streak-stats.herokuapp.com/?user=blackmitnick&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/andersoncharle/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="andersoncharle streak" src="https://github-readme-streak-stats.herokuapp.com/?user=andersoncharle&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/blackmitnick/github-readme-stats"><img alt="blackmitnick Github Stats" src="https://github-readme-stats.vercel.app/api?username=blackmitnick&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/blackmitnick/github-readme-stats"><img alt="blackmitnick Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackmitnick&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/andersoncharle/github-readme-stats"><img alt="andersoncharle Github Stats" src="https://github-readme-stats.vercel.app/api?username=andersoncharle&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/andersoncharle/github-readme-stats"><img alt="andersoncharle Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncharle&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <br/>
 <br/>
 
-<a href="https://github.com/blackmitnick/github-readme-activity-graph"><img alt="blackmitnick Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=blackmitnick&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/andersoncharle/github-readme-activity-graph"><img alt="andersoncharle Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=andersoncharle&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -72,7 +72,7 @@ First solve the problem then write code.
 
 <a href = "https://www.linkedin.com/in/anderson-chale-145096238/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Anderson_bolt47"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://blackmitnick.github.io/"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
+<a href = "https://andersoncharle.github.io/"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
 
 
 </p>
@@ -82,6 +82,6 @@ First solve the problem then write code.
     
 </a>
 
-![Profile views](https://gpvc.arturio.dev/blackmitnick)
+![Profile views](https://gpvc.arturio.dev/andersoncharle)
 
-<a href="https://github.com/blackmitnick?tab=followers"><img src="https://img.shields.io/github/followers/blackmitnick?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/andersoncharle?tab=followers"><img src="https://img.shields.io/github/followers/andersoncharle?label=Followers&style=social" alt="GitHub Badge"></a>
