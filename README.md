@@ -5,7 +5,7 @@
 <!-- from Tanzania <img src="https://img.icons8.com/color/48/000000/tanzania.png" width="20px"/> -->
 
 
-![I am Software Engineer.](https://github.com/andersoncharle/andersoncharle/blob/main/coderPic.jpg)
+![I am Software Engineer.](https://github.com/andersoncharle/andersoncharle/blob/main/coder.gif)
 
 
 ## 🙋‍♂️ About Me
