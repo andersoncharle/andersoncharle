@@ -5,8 +5,13 @@
 <!-- from Tanzania <img src="https://img.icons8.com/color/48/000000/tanzania.png" width="20px"/> -->
 
 
-![I am Software Engineer.](https://github.com/andersoncharle/andersoncharle/blob/main/coder.gif)
-
+<p align="center">
+  <img
+    src="https://github.com/andersoncharle/andersoncharle/blob/main/coder.gif"
+    alt="I am Software Engineer."
+  width="700px"    
+      />
+</p>
 
 ## 🙋‍♂️ About Me
 
