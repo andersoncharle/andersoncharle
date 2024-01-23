@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm anderson</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kelvin  Deus</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
 <h3 align="center">software engineer.</h3>
 
@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://github.com/andersoncharle/andersoncharle/blob/main/coder.gif"
+    src="https://github.com/Deus2021/Deus2021/blob/main/coder.gif"
     alt="I am Software Engineer."
   width="700px"    
       />
@@ -17,7 +17,6 @@
 
 
 
-<!-- Full-stack web developer, Android developer, Blockchain developer, and ethical hacker. My love for coding, UI/UX design, and hacking is intense. I've worked in software development, front-end and back-end web development, database/server management, and graphic design as well. Anyone can put a few lines of code together, but an Anderson Developer can accomplish more. He considers what motivates people and creates to inspire others by combining creativity, innovation, and strategy to solve business challenges. He accomplishes this by designing and engineering with customers in mind. If it works, don't touch it again is my motto when it comes to programming. -->
 First solve the problem then write code.
 
 ## 🚀 Languages and Tools:
@@ -52,34 +51,35 @@ First solve the problem then write code.
 <br/>
 
 <p align="center">
-    <a href="https://github.com/andersoncharle/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="andersoncharle streak" src="https://github-readme-streak-stats.herokuapp.com/?user=andersoncharle&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Deus2021/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Deus2021 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Deus2021&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/andersoncharle/github-readme-stats"><img alt="andersoncharle Github Stats" src="https://github-readme-stats.vercel.app/api?username=andersoncharle&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/andersoncharle/github-readme-stats"><img alt="andersoncharle Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncharle&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Deus2021/github-readme-stats"><img alt="Deus2021 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Deus2021&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Deus2021/github-readme-stats"><img alt="Deus2021 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deus2021&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <br/>
 <br/>
 
-[//]: # (<a href="https://github.com/andersoncharle/github-readme-activity-graph">)
+[//]: # (<a href="https://github.com/Deus2021/github-readme-activity-graph">)
 
-[//]: # (<img alt="andersoncharle Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=andersoncharle&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andersoncharle&bg_color=000000&color=26a269&line=8ff0a4&point=dc8add&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[//]: # (<img alt="Deus2021 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Deus2021&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deus2021&bg_color=000000&color=26a269&line=8ff0a4&point=dc8add&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 <br/>
 
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/anderson-chale-145096238/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Anderson_bolt47"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://andersoncharle.github.io/"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
+<!-- <a href = "https://www.linkedin.com/in/anderson-chale-145096238/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
+
+<a href = "https://twitter.com/mkushi_de"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://Deus2021.github.io/"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
 
 
 </p>
@@ -89,6 +89,6 @@ First solve the problem then write code.
     
 </a>
 
-![Profile views](https://gpvc.arturio.dev/andersoncharle)
+![Profile views](https://gpvc.arturio.dev/Deus2021)
 
-<a href="https://github.com/andersoncharle?tab=followers"><img src="https://img.shields.io/github/followers/andersoncharle?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Deus2021?tab=followers"><img src="https://img.shields.io/github/followers/Deus2021?label=Followers&style=social" alt="GitHub Badge"></a>
